@@ -1,0 +1,6 @@
+{
+  "name": "La Maison des Chaussures",
+  "description": "Boutique de chaussures de qualité vérifiée à petit prix à Cocody Riviera M'Badon, Abidjan, Côte d'Ivoire. Commandez en toute simplicité sur WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
